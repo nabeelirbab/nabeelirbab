@@ -1,26 +1,51 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nabeel Arbab Ahmed</h1>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
+# Hi there, I'm Nabeel Arbab Ahmed 👋
 
-# 💫 About Me:
+I'm a passionate Full Stack Developer with expertise in building scalable web applications. I specialize in both frontend and backend technologies, making sure to deliver seamless and efficient solutions. I enjoy taking on new challenges and constantly improving my skills in various programming languages and frameworks.
 
-🔭 I’m currently working as a full stack Laravel/vue developer.<br>🌱 I’m currently learning React js.
-<br> 💞️ I’m looking to collaborate on different projects.
-<br>📫 How to reach me?
-      using my email address you can reach to me nabeelirbab@gmail.com
+## 🚀 Skills & Technologies
 
-# 💻 Tech Stack:
-!Laravel !MySQL !SQLite !Redis !Postgres !MongoDB !Vue.js
-!JavaScript !TypeScript !React !React Native !React Router  !Bootstrap !Chakra !Django !Express.js !FastAPI !jQuery !JWT !MUI !NPM !NestJS !Next JS !NodeJS !Redux !SASS !Apache !Nginx !MongoDB !Postgres !Redis !SQLite !Canva !Figma !Babel !ESLint !Docker !Postman !Jira !Swagger !Trello !AWS !Firebase !Netlify !Heroku !Azure !CSS3 !HTML5
+### Frontend
+- **Frameworks:** Vue.js, React
+- **Tools & Libraries:** Vuex, Redux, Tailwind CSS, Bootstrap
 
-<!---
-nabeelirbab/nabeelirbab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Backend
+- **Languages:** PHP, JavaScript (Node.js)
+- **Frameworks:** Laravel, Express.js
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeelirbab&show_icons=true&locale=en&layout=compact" alt="nabeelirbab" /></p>
+### Database
+- **SQL:** MySQL, PostgreSQL
+- **NoSQL:** MongoDB
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabeelirbab&show_icons=true&locale=en" alt="nabeelirbab" /></p>
+### DevOps & Tools
+- **Tools:** Docker, Git, VS Code
+- **CI/CD:** GitHub Actions, Jenkins
+- **Cloud:** AWS, Heroku
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelirbab&" alt="nabeelirbab" /></p>
+## 🌟 Projects & Contributions
+  
+- **Freelance Work**
+  - **[Upwork Profile](https://www.upwork.com/freelancers/~01c35e3e51b1a643ab?mp_source=share)**
+  - Available for freelance opportunities on Upwork.
 
-!dist/github-contribution-grid-snake.svg
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Nabeel Arbab Ahmed](https://www.linkedin.com/in/nabeel-arbab-ahmed-091861120/)
+- **Email:** [nabeelirbab@gmail.com](mailto:nabeelirbab@gmail.com)
+
+## 💼 Experience
+
+I have worked on multiple full-stack projects where I have handled everything from setting up the backend infrastructure to building dynamic and responsive frontends. My experience spans across different industries, and I have a proven track record of delivering high-quality software solutions.
+
+## 📈 GitHub Stats
+
+![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeelirbab&show_icons=true&theme=radical)
+
+## 🎯 Fun Facts
+
+- I love exploring new technologies and applying them in my projects.
+- I'm always open to learning and embracing new challenges.
+- When I'm not coding, you can find me reading or exploring new places.
+
+---
+
+Let's connect and build something amazing together!
