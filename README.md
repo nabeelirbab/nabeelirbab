@@ -36,9 +36,16 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 
 I have worked on multiple full-stack projects where I have handled everything from setting up the backend infrastructure to building dynamic and responsive frontends. My experience spans across different industries, and I have a proven track record of delivering high-quality software solutions.
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Insights
 
 ![Nabeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabeelirbab&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelirbab&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nabeelirbab&theme=radical)
+
+## 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nabeelirbab&theme=radical&no-frame=true&row=1&column=6)
+
 
 ## 🎯 Fun Facts
 
