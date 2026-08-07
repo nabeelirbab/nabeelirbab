@@ -5,11 +5,11 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 ## 🚀 Skills & Technologies
 
 ### Frontend
-- **Frameworks:** Vue.js, React
+- **Frameworks:** Vue.js, React, Angular
 - **Tools & Libraries:** Vuex, Redux, Tailwind CSS, Bootstrap
 
 ### Backend
-- **Languages:** PHP, JavaScript (Node.js)
+- **Languages:** PHP, JavaScript (Node.js), .Net
 - **Frameworks:** Laravel, Express.js
 
 ### Database
@@ -29,7 +29,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Nabeel Arbab Ahmed](https://www.linkedin.com/in/nabeel-arbab-ahmed-091861120/)
+- **LinkedIn:** [Nabeel Arbab Ahmed](https://www.linkedin.com/in/nabeel-irbab-ahmed-091861120/)
 - **Email:** [nabeelirbab@gmail.com](mailto:nabeelirbab@gmail.com)
 
 ## 💼 Experience
